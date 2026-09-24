@@ -21,7 +21,7 @@ class Vector2():
     def __div__(self, scalar):
         if scalar != 0:
             return Vector2(self.x / float(scalar), self.y / float(scalar))
-        return none
+        return None
     
     def __truediv__(self, scalar):
         return self.__div__(scalar)
