@@ -13,7 +13,7 @@ class Vector2():
         return Vector2(self.x - other.x, self.y - other.y)
     
     def __neg__(self):
-        return Vector2(-self.x. -self.y)
+        return Vector2(-self.x, -self.y)
     
     def __mul__(self, scalar):
         return Vector2(self.x * scalar, self.y * scalar)
