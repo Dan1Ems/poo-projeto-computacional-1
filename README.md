@@ -203,10 +203,10 @@ Responsável por:
 
 | Integrante             | Tarefas                                                    |
 | ---------------------- | ---------------------------------------------------------- |
-| [Daniel Esmeraldo & João Peixoto] | Implementação da classe `Vector2` e operações matemáticas  |
-| [Daniel Esmeraldo & João Peixoto] | Implementação dos nós e estrutura do mapa                  |
-| [Daniel Esmeraldo & João Peixoto] | Implementação da classe `Pacman` e sistema de movimentação |
-| [Daniel Esmeraldo & João Peixoto] | Implementação do `GameController`, integração e testes     |
+| [Daniel Esmeraldo] | Implementação da classe `Vector2` e operações matemáticas  |
+| [João Peixoto] | Implementação dos nós e estrutura do mapa                  |
+| [Daniel Esmeraldo] | Implementação da classe `Pacman` e sistema de movimentação |
+| [João Peixoto] | Implementação do `GameController`, integração e testes     |
 
 ## Referência
 
